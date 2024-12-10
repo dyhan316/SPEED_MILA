@@ -1,0 +1,38 @@
+pipeline:
+  class_path: src.pipeline.DynamicPipeline
+  init_args:
+    do_ica: False
+    line_freqs: [60]
+    sfreq: 200 #resampling freq
+    lp_freq: 100 #QA 할때는 default values들로 하자! 
+    hp_freq: 0.5
+    preproc_lp_freq: 75 #75 #can do 'same' or a value
+    preproc_hp_freq: 0.1 #can do 'same' or a value
+    keep_remainder: True
+    run_ransac: True
+    run_detrend: False
+    preproc_line_noise_option: mnenotch #'mnenotch', None, or default
+    preproc_line_freqs: [60, 120, 180, 240]
+    rereference_option: 'ar' #can do 'ar', 'le', or None
+    missing_chs_option: ignore #can do 'interpolate', 'zero', 'remove', or 'ignore'
+    drop_extra_chs: False
+    reorder_chs: False
+    resample_method: 'mne' #can do 'default', 'mne','decimate', None, ...
+dataset_path: /global/cfs/cdirs/m4750/DIVER/TUData/tuh_eeg/tuh_eeg/v2.0.1/edf
+out_path: /global/cfs/cdirs/m4673/DIVER_temp/tuh_PREPROC_FIRST_VER/out
+log_path: /global/cfs/cdirs/m4673/DIVER_temp/tuh_PREPROC_FIRST_VER/log.txt
+overwrite: False
+shuffle_files: True
+batch_size: 5 #! if this is not 1, then each one HDF != one EDF!! 주의!! 
+n_jobs: 45 #! for testing  #! can be set to larger if wanted!
+save_method: 'tueg_fif_ours' #can do "tueg_fif_ours", "default", #"h5_ours"
+
+#batch size of 3, n_jobs of 40 : enough to occupy like 1/3 the mmoery
+#so will try to do 5, 45 
+
+
+#for faster, batch_size = 2, n_jobs = 40 is good (can make it larger probs)
+
+#export HDF5_USE_FILE_LOCKING=FALSE
+#export NUMEXPR_MAX_THREADS=256
+#python scripts/preprocess.py --config configs/tuh_TEST.yaml

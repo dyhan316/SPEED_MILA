@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/scripts/preprocess.py", line 174, in <module>
+    CLI(preprocess_dataset)
+  File "/global/common/software/m4244/DIVER/lib/python3.12/site-packages/jsonargparse/_cli.py", line 96, in CLI
+    return _run_component(components, init)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/common/software/m4244/DIVER/lib/python3.12/site-packages/jsonargparse/_cli.py", line 204, in _run_component
+    return component(**cfg)
+           ^^^^^^^^^^^^^^^^
+  File "/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/scripts/preprocess.py", line 120, in preprocess_dataset
+    conf_log()
+  File "/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/scripts/preprocess.py", line 119, in <lambda>
+    conf_log = lambda: configure_logging(log_path)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/scripts/preprocess.py", line 43, in configure_logging
+    logging.basicConfig(filename=filename,
+  File "/global/common/software/m4244/DIVER/lib/python3.12/logging/__init__.py", line 2118, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/common/software/m4244/DIVER/lib/python3.12/logging/__init__.py", line 1231, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "/global/common/software/m4244/DIVER/lib/python3.12/logging/__init__.py", line 1263, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/global/cfs/cdirs/m4673/DIVER_temp/tuh_PREPROC_FIRST_VER/log.txt'

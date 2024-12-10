@@ -1,0 +1,106 @@
+pipeline:
+  class_path: src.pipeline.DynamicPipeline
+  init_args:
+    do_ica: False
+    line_freqs: [60]
+    sfreq: 200 #resampling freq
+    lp_freq: 100 #QA 할때는 default values들로 하자! 
+    hp_freq: 0.5
+    preproc_lp_freq: 75 #75 #can do 'same' or a value
+    preproc_hp_freq: 0.1 #can do 'same' or a value
+    keep_remainder: True
+    run_ransac: False
+    run_detrend: False
+    preproc_line_noise_option: default #'mnenotch', None, or default
+    preproc_line_freqs: [60, 120, 180, 240]
+    rereference_option: 'ar' #can do 'ar', 'le', or None
+    missing_chs_option: remove #can do 'interpolate', 'zero', 'remove', or 'ignore'
+    drop_extra_chs: True
+    reorder_chs: True
+    resample_method: 'default' #can do 'resample', 'mne','decimate', None, ...
+dataset_path: /global/cfs/cdirs/m4673/DIVER_temp/temp_SPEED_TUEG_small_data
+out_path: /global/cfs/cdirs/m4673/DIVER_temp/temp_SPEED_results/out
+log_path: /global/cfs/cdirs/m4673/DIVER_temp/temp_SPEED_results/log.txt
+overwrite: False
+shuffle_files: True
+batch_size: 1 #! if this is not 1, then each one HDF != one EDF!! 주의!! 
+n_jobs: 1 #! for testing  #! can be set to larger if wanted!
+save_method: 'tueg_fif_ours' #can do "tueg_fif_ours", "default", #"h5_ours"
+
+
+#for faster, batch_size = 2, n_jobs = 40 is good (can make it larger probs)
+
+#export HDF5_USE_FILE_LOCKING=FALSE
+#export NUMEXPR_MAX_THREADS=256
+#python scripts/preprocess.py --config configs/tuh_TEST.yaml
+
+
+##Config added
+#! CHECK : WHAT "DEGRENDING" DOES (AFTER LOW & HIGH PASS FILTER?)
+ 
+#4. add options to skip QA (already 가능! `quality_check : False` ) and 
+
+
+#! TODO : CREATE A DICT TO KEEP TRACK OF THINGS LIKE BAD QUALTIY REASON, REJECTED REASON AND SUCH! 
+
+#! TUESDAY 10~11AM  : MONDAY : PUSH AND GIVE TUTORIAL ON GITREPO (11AM) + PRETRAIN LABRAM 
+#! YOU  GUYS : 1. MATCH PREPROCESSING TO POYO 2. FINETUNING PREPROCESSING (TUEV, TUAB)
+
+
+
+#1. "raws_split, times_split = self._split_raw(raw_orig)" 여기서 마지막남는 것은 잘림... 안짤리도록 하기? (아니면 맨맞지막것만 더 길게 하던지! )
+#2. check how much data is lost due to preprocessing, and if bad channel threshold가 줄어들어야할지... (MB가 아닌 timelength로 봐야함!) (threshold change?)
+#3. QUALITY THRESHOLD IS TOO STRONG!! REMOVE SOME pyprocessing reject thing!
+#5. save the file  name itslef 
+#6. must make sure  thv = np.mean(np.std(raw._data, axis=0) > thv_threshold) ==> UNIT IS V!!! 
+#7. Evaluate Quality에서 oha, thv, chv끄는 옵션도 넣기!  (mehotds.py 의     def evaluate_quality(raw, oha_threshold=40e-6, thv_threshold=40e-6, chv_threshold=80e-6,)
+#! 8. concatenating the windows => do'nt do it! will intorduce artifacts! (60s is already wrong anyways.. so just use that!)
+#! also window size should be at least 60s to ensure proper preprocessing! 
+#! concatenating windows COULD be done AFTER "Drop Bad Channels" , (linenoise probalby doesn't matter that much, and the following detrending and such is OK to be done together)
+#! 일단은 보류! 
+#9. BasicPipeline 내에서       self.ransac = True로 default하는데, 이것을 바꿔야함!! option to turn off ransac! 
+#! RUN THE THING ONCE! (using just batch_size 2 and n_jobs 20 or sth)
+
+
+# #splitting windows and QA options 
+#* self.keep_remainder
+#* self.ransac
+
+# #Actual Preprocessing if 'same', will use same lp,hp,line_freq for QA and preprocessing
+#* self.run_detrend
+#* self.preproc_line_noise_option #if you want to turn off line_noise, do None or False
+#* self.preproc_line_freqs
+#* self.preproc_lp_freq
+# *self.preproc_hp_freq
+
+# #rereference,  interpolating missing channels, dropping extra channels, and resampling 
+#* self.rereference_option
+#* self.missing_chs_option
+#* self.drop_extra_chs
+#* self.reorder_chs
+#* self.resample_method 
+#! TODO : normalization and such must also be put in! => put this as post-processing!
+#! TODO : hmmm I do'nt know... almost done? need stom montage and stuff but othe than that !! haha 
+
+
+#! what you must change to adapt to other datasets
+#1. ._to_standard_names
+#2. ._set_montage
+
+# ToDo: Transfer annotations
+# def split_raw(raw, window_length=60, keep_remainder = False):
+
+
+#! CHANGES MADE
+#1. split_raw : now if keep_remainder is True, then the last window will be longer than the rest (appends to the last window)
+  # TODO : 
+  #1. split_raw was done but its accompanying function during merging was not done (or just only allow keep_remainder if merging = False?)
+
+# TODO : 
+# custom montage!
+# saving and logging the results and such! 
+
+#! ASK : is detrend necessary? 
+#! ASK : is ransac necessary?
+#! ASK : is the rejection methods that they use excessive?
+#! ASK : we can loosen QA, but still keep the channel dropping and such 

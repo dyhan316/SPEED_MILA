@@ -1,0 +1,15 @@
+pipeline:
+  class_path: src.pipeline.DynamicPipeline
+  init_args:
+    do_ica: False
+    line_freqs: [60]
+    sfreq: 200
+    lp_freq: 0.1
+    hp_freq: 75
+dataset_path: /global/cfs/cdirs/m4750/DIVER/TUData/tuh_eeg
+out_path: /global/cfs/cdirs/m4673/DIVER_temp/out
+log_path: /global/cfs/cdirs/m4673/DIVER_temp/log.txt
+overwrite: False
+shuffle_files: True
+batch_size: 2
+n_jobs: 60

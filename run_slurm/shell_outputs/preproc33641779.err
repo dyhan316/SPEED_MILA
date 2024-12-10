@@ -1,0 +1,881 @@
+Preprocessing files:   0%|          | 0/23218 [00:00<?, ?it/s]Preprocessing files:   0%|          | 40/23218 [00:00<04:53, 78.94it/s]Preprocessing files:   0%|          | 40/23218 [00:19<04:53, 78.94it/s]Preprocessing files:   0%|          | 80/23218 [00:22<2:09:24,  2.98it/s]Preprocessing files:   1%|          | 120/23218 [01:35<6:29:46,  1.01s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:752: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   1%|          | 160/23218 [02:46<8:25:55,  1.32s/it]Preprocessing files:   1%|          | 200/23218 [04:03<9:47:54,  1.53s/it]Preprocessing files:   1%|          | 240/23218 [05:34<11:22:23,  1.78s/it]Preprocessing files:   1%|          | 280/23218 [07:21<13:13:51,  2.08s/it]Preprocessing files:   1%|▏         | 320/23218 [08:49<13:26:08,  2.11s/it]Preprocessing files:   2%|▏         | 360/23218 [10:31<14:17:01,  2.25s/it]Preprocessing files:   2%|▏         | 400/23218 [12:56<16:57:20,  2.68s/it]Preprocessing files:   2%|▏         | 440/23218 [14:42<16:52:10,  2.67s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   2%|▏         | 480/23218 [16:34<17:07:30,  2.71s/it]Preprocessing files:   2%|▏         | 520/23218 [18:09<16:27:20,  2.61s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   2%|▏         | 560/23218 [20:10<17:13:11,  2.74s/it]Preprocessing files:   3%|▎         | 600/23218 [22:16<17:57:41,  2.86s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   3%|▎         | 640/23218 [23:45<16:44:09,  2.67s/it]Preprocessing files:   3%|▎         | 680/23218 [25:25<16:22:15,  2.61s/it]Preprocessing files:   3%|▎         | 720/23218 [27:22<16:55:46,  2.71s/it]Preprocessing files:   3%|▎         | 760/23218 [29:03<16:32:26,  2.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   3%|▎         | 800/23218 [30:33<15:47:27,  2.54s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   4%|▎         | 840/23218 [31:59<15:02:20,  2.42s/it]Preprocessing files:   4%|▍         | 880/23218 [34:35<17:46:00,  2.86s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   4%|▍         | 920/23218 [36:42<18:17:48,  2.95s/it]Preprocessing files:   4%|▍         | 960/23218 [38:33<17:57:01,  2.90s/it]Preprocessing files:   4%|▍         | 1000/23218 [40:48<18:46:05,  3.04s/it]Preprocessing files:   4%|▍         | 1040/23218 [42:52<18:50:36,  3.06s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   5%|▍         | 1080/23218 [45:02<19:10:50,  3.12s/it]Preprocessing files:   5%|▍         | 1120/23218 [46:52<18:28:58,  3.01s/it]Preprocessing files:   5%|▍         | 1160/23218 [48:58<18:41:34,  3.05s/it]Preprocessing files:   5%|▌         | 1200/23218 [50:46<17:59:35,  2.94s/it]Preprocessing files:   5%|▌         | 1240/23218 [52:27<17:13:15,  2.82s/it]Preprocessing files:   6%|▌         | 1280/23218 [54:41<18:09:46,  2.98s/it]Preprocessing files:   6%|▌         | 1320/23218 [56:48<18:29:31,  3.04s/it]Preprocessing files:   6%|▌         | 1360/23218 [58:47<18:19:57,  3.02s/it]Preprocessing files:   6%|▌         | 1400/23218 [1:00:54<18:34:02,  3.06s/it]Preprocessing files:   6%|▌         | 1440/23218 [1:02:31<17:22:30,  2.87s/it]Preprocessing files:   6%|▋         | 1480/23218 [1:04:30<17:31:15,  2.90s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   7%|▋         | 1520/23218 [1:06:18<17:09:15,  2.85s/it]Preprocessing files:   7%|▋         | 1560/23218 [1:08:31<17:57:11,  2.98s/it]Preprocessing files:   7%|▋         | 1600/23218 [1:10:45<18:35:13,  3.10s/it]Preprocessing files:   7%|▋         | 1640/23218 [1:12:41<18:11:58,  3.04s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   7%|▋         | 1680/23218 [1:14:44<18:14:28,  3.05s/it]Preprocessing files:   7%|▋         | 1720/23218 [1:16:19<16:58:52,  2.84s/it]Preprocessing files:   8%|▊         | 1760/23218 [1:18:04<16:34:15,  2.78s/it]Preprocessing files:   8%|▊         | 1800/23218 [1:19:54<16:30:17,  2.77s/it]Preprocessing files:   8%|▊         | 1840/23218 [1:21:32<15:53:23,  2.68s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   8%|▊         | 1880/23218 [1:23:03<15:07:26,  2.55s/it]Preprocessing files:   8%|▊         | 1920/23218 [1:24:46<15:08:51,  2.56s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   8%|▊         | 1960/23218 [1:26:45<15:51:37,  2.69s/it]Preprocessing files:   9%|▊         | 2000/23218 [1:28:38<16:05:28,  2.73s/it]/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/src/pipeline.py:297: RuntimeWarning: Channels contain different highpass filters. Highest filter setting will be stored.
+  raw_orig = mne.io.read_raw_edf(src_path, preload=True, verbose=False)
+Preprocessing files:   9%|▉         | 2040/23218 [1:30:40<16:37:30,  2.83s/it]Preprocessing files:   9%|▉         | 2080/23218 [1:32:26<16:15:57,  2.77s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   9%|▉         | 2120/23218 [1:33:55<15:15:46,  2.60s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:   9%|▉         | 2160/23218 [1:35:58<16:04:09,  2.75s/it]Preprocessing files:   9%|▉         | 2200/23218 [1:37:57<16:26:50,  2.82s/it]Preprocessing files:  10%|▉         | 2240/23218 [1:39:47<16:17:17,  2.80s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  10%|▉         | 2280/23218 [1:41:11<15:02:24,  2.59s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  10%|▉         | 2320/23218 [1:42:54<14:59:35,  2.58s/it]Preprocessing files:  10%|█         | 2360/23218 [1:44:39<15:02:30,  2.60s/it]Preprocessing files:  10%|█         | 2400/23218 [1:46:20<14:54:10,  2.58s/it]Preprocessing files:  11%|█         | 2440/23218 [1:48:46<16:44:08,  2.90s/it]Preprocessing files:  11%|█         | 2480/23218 [1:50:46<16:52:03,  2.93s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  11%|█         | 2520/23218 [1:53:05<17:47:26,  3.09s/it]Preprocessing files:  11%|█         | 2560/23218 [1:55:23<18:20:28,  3.20s/it]Preprocessing files:  11%|█         | 2600/23218 [1:57:16<17:40:19,  3.09s/it]Preprocessing files:  11%|█▏        | 2640/23218 [1:59:19<17:36:31,  3.08s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  12%|█▏        | 2680/23218 [2:01:06<16:54:05,  2.96s/it]Preprocessing files:  12%|█▏        | 2720/23218 [2:02:53<16:21:55,  2.87s/it]Preprocessing files:  12%|█▏        | 2760/23218 [2:04:41<16:02:25,  2.82s/it]Preprocessing files:  12%|█▏        | 2800/23218 [2:06:35<16:02:39,  2.83s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  12%|█▏        | 2840/23218 [2:09:01<17:25:20,  3.08s/it]Preprocessing files:  12%|█▏        | 2880/23218 [2:11:08<17:33:55,  3.11s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  13%|█▎        | 2920/23218 [2:12:56<16:49:13,  2.98s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  13%|█▎        | 2960/23218 [2:14:50<16:33:23,  2.94s/it]Preprocessing files:  13%|█▎        | 3000/23218 [2:16:26<15:36:25,  2.78s/it]Preprocessing files:  13%|█▎        | 3040/23218 [2:18:14<15:28:59,  2.76s/it]Preprocessing files:  13%|█▎        | 3080/23218 [2:20:07<15:31:07,  2.77s/it]Preprocessing files:  13%|█▎        | 3120/23218 [2:22:18<16:20:46,  2.93s/it]Preprocessing files:  14%|█▎        | 3160/23218 [2:24:41<17:23:40,  3.12s/it]Preprocessing files:  14%|█▍        | 3200/23218 [2:26:14<16:00:34,  2.88s/it]Preprocessing files:  14%|█▍        | 3240/23218 [2:28:31<16:55:32,  3.05s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  14%|█▍        | 3280/23218 [2:30:30<16:43:41,  3.02s/it]Preprocessing files:  14%|█▍        | 3320/23218 [2:32:49<17:28:27,  3.16s/it]/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/src/pipeline.py:463: SyntaxWarning: invalid escape sequence '\Z'
+  logging.info(f"{window_info_str}\Zeroing {len(missing_chs)} channels: {missing_chs}.")
+Preprocessing files:  14%|█▍        | 3360/23218 [2:34:22<16:01:48,  2.91s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  15%|█▍        | 3400/23218 [2:36:05<15:29:10,  2.81s/it]Preprocessing files:  15%|█▍        | 3440/23218 [2:38:30<16:46:54,  3.05s/it]Preprocessing files:  15%|█▍        | 3480/23218 [2:40:24<16:23:08,  2.99s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  15%|█▌        | 3520/23218 [2:42:29<16:36:09,  3.03s/it]Preprocessing files:  15%|█▌        | 3560/23218 [2:44:18<16:03:11,  2.94s/it]Preprocessing files:  16%|█▌        | 3600/23218 [2:46:32<16:41:42,  3.06s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  16%|█▌        | 3640/23218 [2:48:33<16:35:16,  3.05s/it]Preprocessing files:  16%|█▌        | 3680/23218 [2:50:29<16:20:12,  3.01s/it]Preprocessing files:  16%|█▌        | 3720/23218 [2:52:15<15:40:55,  2.90s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  16%|█▌        | 3760/23218 [2:53:54<15:00:06,  2.78s/it]Preprocessing files:  16%|█▋        | 3800/23218 [2:55:29<14:18:49,  2.65s/it]Preprocessing files:  17%|█▋        | 3840/23218 [2:57:28<14:47:47,  2.75s/it]Preprocessing files:  17%|█▋        | 3880/23218 [2:59:07<14:20:24,  2.67s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  17%|█▋        | 3920/23218 [3:00:32<13:25:07,  2.50s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  17%|█▋        | 3960/23218 [3:02:16<13:33:42,  2.54s/it]Preprocessing files:  17%|█▋        | 4000/23218 [3:04:12<14:06:27,  2.64s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  17%|█▋        | 4040/23218 [3:06:16<14:48:52,  2.78s/it]Preprocessing files:  18%|█▊        | 4080/23218 [3:08:09<14:50:49,  2.79s/it]Preprocessing files:  18%|█▊        | 4120/23218 [3:09:56<14:36:40,  2.75s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  18%|█▊        | 4160/23218 [3:11:29<13:53:42,  2.62s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  18%|█▊        | 4200/23218 [3:12:59<13:17:12,  2.52s/it]Preprocessing files:  18%|█▊        | 4240/23218 [3:14:34<13:03:10,  2.48s/it]Preprocessing files:  18%|█▊        | 4280/23218 [3:15:56<12:20:53,  2.35s/it]Preprocessing files:  19%|█▊        | 4320/23218 [3:17:42<12:47:23,  2.44s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  19%|█▉        | 4360/23218 [3:19:45<13:45:56,  2.63s/it]Preprocessing files:  19%|█▉        | 4400/23218 [3:21:46<14:21:04,  2.75s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  19%|█▉        | 4440/23218 [3:23:51<14:54:45,  2.86s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  19%|█▉        | 4480/23218 [3:25:44<14:49:46,  2.85s/it]Preprocessing files:  19%|█▉        | 4520/23218 [3:27:40<14:54:20,  2.87s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  20%|█▉        | 4560/23218 [3:29:12<13:58:20,  2.70s/it]Preprocessing files:  20%|█▉        | 4600/23218 [3:31:52<15:56:47,  3.08s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  20%|█▉        | 4640/23218 [3:34:38<17:34:08,  3.40s/it]Preprocessing files:  20%|██        | 4680/23218 [3:36:56<17:36:05,  3.42s/it]Preprocessing files:  20%|██        | 4720/23218 [3:39:03<17:10:57,  3.34s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  21%|██        | 4760/23218 [3:40:30<15:21:10,  2.99s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  21%|██        | 4800/23218 [3:42:12<14:39:59,  2.87s/it]Preprocessing files:  21%|██        | 4840/23218 [3:44:33<15:37:28,  3.06s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  21%|██        | 4880/23218 [3:46:49<16:06:32,  3.16s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  21%|██        | 4920/23218 [3:49:01<16:16:25,  3.20s/it]Preprocessing files:  21%|██▏       | 4960/23218 [3:51:23<16:47:12,  3.31s/it]Preprocessing files:  22%|██▏       | 5000/23218 [3:53:29<16:29:07,  3.26s/it]Preprocessing files:  22%|██▏       | 5040/23218 [3:55:42<16:33:51,  3.28s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  22%|██▏       | 5080/23218 [3:58:07<17:02:34,  3.38s/it]Preprocessing files:  22%|██▏       | 5120/23218 [3:59:52<15:51:40,  3.16s/it]Preprocessing files:  22%|██▏       | 5160/23218 [4:01:50<15:32:09,  3.10s/it]Preprocessing files:  22%|██▏       | 5200/23218 [4:03:28<14:30:37,  2.90s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  23%|██▎       | 5240/23218 [4:05:10<13:58:48,  2.80s/it]Preprocessing files:  23%|██▎       | 5280/23218 [4:06:45<13:17:50,  2.67s/it]Preprocessing files:  23%|██▎       | 5320/23218 [4:08:43<13:42:21,  2.76s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  23%|██▎       | 5360/23218 [4:11:24<15:32:07,  3.13s/it]Preprocessing files:  23%|██▎       | 5400/23218 [4:13:39<15:51:56,  3.21s/it]Preprocessing files:  23%|██▎       | 5440/23218 [4:15:16<14:39:57,  2.97s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  24%|██▎       | 5480/23218 [4:16:42<13:24:57,  2.72s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  24%|██▍       | 5520/23218 [4:18:07<12:31:32,  2.55s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  24%|██▍       | 5560/23218 [4:20:01<12:56:21,  2.64s/it]Preprocessing files:  24%|██▍       | 5600/23218 [4:21:31<12:20:25,  2.52s/it]Preprocessing files:  24%|██▍       | 5640/23218 [4:23:37<13:12:59,  2.71s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  24%|██▍       | 5680/23218 [4:25:10<12:38:50,  2.60s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  25%|██▍       | 5720/23218 [4:26:59<12:47:50,  2.63s/it]Preprocessing files:  25%|██▍       | 5760/23218 [4:28:46<12:50:58,  2.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  25%|██▍       | 5800/23218 [4:31:09<14:08:49,  2.92s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  25%|██▌       | 5840/23218 [4:33:33<15:05:25,  3.13s/it]Preprocessing files:  25%|██▌       | 5880/23218 [4:35:23<14:31:23,  3.02s/it]Preprocessing files:  25%|██▌       | 5920/23218 [4:38:33<16:58:03,  3.53s/it]Preprocessing files:  26%|██▌       | 5960/23218 [4:40:45<16:36:48,  3.47s/it]Preprocessing files:  26%|██▌       | 6000/23218 [4:42:55<16:14:59,  3.40s/it]Preprocessing files:  26%|██▌       | 6040/23218 [4:44:50<15:28:12,  3.24s/it]Preprocessing files:  26%|██▌       | 6080/23218 [4:46:38<14:40:36,  3.08s/it]Preprocessing files:  26%|██▋       | 6120/23218 [4:49:23<16:06:32,  3.39s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  27%|██▋       | 6160/23218 [4:51:35<15:56:23,  3.36s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  27%|██▋       | 6200/23218 [4:54:04<16:25:09,  3.47s/it]Preprocessing files:  27%|██▋       | 6240/23218 [4:55:56<15:26:10,  3.27s/it]Preprocessing files:  27%|██▋       | 6280/23218 [4:57:42<14:30:40,  3.08s/it]Preprocessing files:  27%|██▋       | 6320/23218 [5:00:24<15:51:29,  3.38s/it]Preprocessing files:  27%|██▋       | 6360/23218 [5:02:44<15:58:52,  3.41s/it]Preprocessing files:  28%|██▊       | 6400/23218 [5:04:46<15:25:05,  3.30s/it]Preprocessing files:  28%|██▊       | 6440/23218 [5:06:37<14:40:25,  3.15s/it]Preprocessing files:  28%|██▊       | 6480/23218 [5:08:29<14:07:22,  3.04s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  28%|██▊       | 6520/23218 [5:10:25<13:54:11,  3.00s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  28%|██▊       | 6560/23218 [5:11:47<12:33:16,  2.71s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  28%|██▊       | 6600/23218 [5:13:37<12:35:46,  2.73s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  29%|██▊       | 6640/23218 [5:15:30<12:40:35,  2.75s/it]Preprocessing files:  29%|██▉       | 6680/23218 [5:17:41<13:22:17,  2.91s/it]Preprocessing files:  29%|██▉       | 6720/23218 [5:20:45<15:39:33,  3.42s/it]Preprocessing files:  29%|██▉       | 6760/23218 [5:22:41<14:55:35,  3.26s/it]Preprocessing files:  29%|██▉       | 6800/23218 [5:24:21<13:49:47,  3.03s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  29%|██▉       | 6840/23218 [5:26:10<13:23:35,  2.94s/it]Preprocessing files:  30%|██▉       | 6880/23218 [5:28:28<14:02:46,  3.10s/it]Preprocessing files:  30%|██▉       | 6920/23218 [5:30:27<13:51:16,  3.06s/it]Preprocessing files:  30%|██▉       | 6960/23218 [5:32:34<13:58:47,  3.10s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  30%|███       | 7000/23218 [5:34:21<13:22:20,  2.97s/it]Preprocessing files:  30%|███       | 7040/23218 [5:35:53<12:24:47,  2.76s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  30%|███       | 7080/23218 [5:38:07<13:10:18,  2.94s/it]Preprocessing files:  31%|███       | 7120/23218 [5:39:59<12:58:50,  2.90s/it]Preprocessing files:  31%|███       | 7160/23218 [5:41:48<12:41:53,  2.85s/it]Preprocessing files:  31%|███       | 7200/23218 [5:43:25<12:06:37,  2.72s/it]Preprocessing files:  31%|███       | 7240/23218 [5:45:17<12:11:03,  2.75s/it]Preprocessing files:  31%|███▏      | 7280/23218 [5:46:38<11:12:15,  2.53s/it]Preprocessing files:  32%|███▏      | 7320/23218 [5:48:15<11:01:22,  2.50s/it]Preprocessing files:  32%|███▏      | 7360/23218 [5:49:37<10:24:21,  2.36s/it]Preprocessing files:  32%|███▏      | 7400/23218 [5:50:56<9:52:43,  2.25s/it] Preprocessing files:  32%|███▏      | 7440/23218 [5:52:25<9:49:34,  2.24s/it]Preprocessing files:  32%|███▏      | 7480/23218 [5:53:57<9:50:57,  2.25s/it]Preprocessing files:  32%|███▏      | 7520/23218 [5:56:08<11:11:27,  2.57s/it]Preprocessing files:  33%|███▎      | 7560/23218 [5:58:38<12:41:04,  2.92s/it]Preprocessing files:  33%|███▎      | 7600/23218 [6:00:39<12:48:57,  2.95s/it]Preprocessing files:  33%|███▎      | 7640/23218 [6:02:22<12:16:55,  2.84s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  33%|███▎      | 7680/23218 [6:03:54<11:32:35,  2.67s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  33%|███▎      | 7720/23218 [6:05:46<11:40:05,  2.71s/it]Preprocessing files:  33%|███▎      | 7760/23218 [6:07:27<11:24:39,  2.66s/it]Preprocessing files:  34%|███▎      | 7800/23218 [6:09:06<11:08:42,  2.60s/it]Preprocessing files:  34%|███▍      | 7840/23218 [6:11:15<11:54:22,  2.79s/it]Preprocessing files:  34%|███▍      | 7880/23218 [6:13:30<12:37:35,  2.96s/it]Preprocessing files:  34%|███▍      | 7920/23218 [6:15:19<12:18:38,  2.90s/it]Preprocessing files:  34%|███▍      | 7960/23218 [6:17:40<13:04:27,  3.08s/it]Preprocessing files:  34%|███▍      | 8000/23218 [6:19:59<13:31:15,  3.20s/it]Preprocessing files:  35%|███▍      | 8040/23218 [6:22:12<13:39:46,  3.24s/it]Preprocessing files:  35%|███▍      | 8080/23218 [6:24:07<13:09:52,  3.13s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  35%|███▍      | 8120/23218 [6:26:07<12:57:46,  3.09s/it]Preprocessing files:  35%|███▌      | 8160/23218 [6:27:48<12:12:20,  2.92s/it]Preprocessing files:  35%|███▌      | 8200/23218 [6:29:20<11:25:02,  2.74s/it]Preprocessing files:  35%|███▌      | 8240/23218 [6:31:02<11:08:08,  2.68s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  36%|███▌      | 8280/23218 [6:32:54<11:16:38,  2.72s/it]Preprocessing files:  36%|███▌      | 8320/23218 [6:35:21<12:24:44,  3.00s/it]Preprocessing files:  36%|███▌      | 8360/23218 [6:37:01<11:45:33,  2.85s/it]Preprocessing files:  36%|███▌      | 8400/23218 [6:39:30<12:49:10,  3.11s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  36%|███▋      | 8440/23218 [6:41:18<12:17:22,  2.99s/it]Preprocessing files:  37%|███▋      | 8480/23218 [6:43:21<12:19:38,  3.01s/it]/global/u1/d/dyhan316/ECOG_AI/preprocessing/SPEED/src/pipeline.py:297: RuntimeWarning: Channels contain different highpass filters. Highest filter setting will be stored.
+  raw_orig = mne.io.read_raw_edf(src_path, preload=True, verbose=False)
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  37%|███▋      | 8520/23218 [6:45:34<12:42:25,  3.11s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  37%|███▋      | 8560/23218 [6:47:23<12:11:36,  2.99s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  37%|███▋      | 8600/23218 [6:49:11<11:47:10,  2.90s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  37%|███▋      | 8640/23218 [6:50:39<10:54:16,  2.69s/it]Preprocessing files:  37%|███▋      | 8680/23218 [6:52:16<10:33:01,  2.61s/it]Preprocessing files:  38%|███▊      | 8720/23218 [6:53:47<10:06:53,  2.51s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  38%|███▊      | 8760/23218 [6:55:19<9:49:58,  2.45s/it] Preprocessing files:  38%|███▊      | 8800/23218 [6:56:59<9:51:50,  2.46s/it]Preprocessing files:  38%|███▊      | 8840/23218 [6:58:32<9:40:24,  2.42s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  38%|███▊      | 8880/23218 [7:00:10<9:41:17,  2.43s/it]Preprocessing files:  38%|███▊      | 8920/23218 [7:01:45<9:34:31,  2.41s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  39%|███▊      | 8960/23218 [7:03:19<9:28:41,  2.39s/it]Preprocessing files:  39%|███▉      | 9000/23218 [7:04:37<8:56:42,  2.26s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  39%|███▉      | 9040/23218 [7:06:01<8:43:34,  2.22s/it]Preprocessing files:  39%|███▉      | 9080/23218 [7:07:52<9:20:32,  2.38s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  39%|███▉      | 9120/23218 [7:09:23<9:12:27,  2.35s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  39%|███▉      | 9160/23218 [7:11:05<9:24:42,  2.41s/it]Preprocessing files:  40%|███▉      | 9200/23218 [7:12:34<9:10:06,  2.35s/it]Preprocessing files:  40%|███▉      | 9240/23218 [7:14:09<9:10:08,  2.36s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  40%|███▉      | 9280/23218 [7:16:29<10:28:13,  2.70s/it]Preprocessing files:  40%|████      | 9320/23218 [7:18:19<10:28:25,  2.71s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  40%|████      | 9360/23218 [7:20:08<10:27:05,  2.72s/it]Preprocessing files:  40%|████      | 9400/23218 [7:21:33<9:45:58,  2.54s/it] Preprocessing files:  41%|████      | 9440/23218 [7:22:57<9:12:20,  2.41s/it]Preprocessing files:  41%|████      | 9480/23218 [7:24:20<8:49:13,  2.31s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  41%|████      | 9520/23218 [7:26:03<9:04:43,  2.39s/it]Preprocessing files:  41%|████      | 9560/23218 [7:27:33<8:55:04,  2.35s/it]Preprocessing files:  41%|████▏     | 9600/23218 [7:29:05<8:49:42,  2.33s/it]Preprocessing files:  42%|████▏     | 9640/23218 [7:31:06<9:35:04,  2.54s/it]Preprocessing files:  42%|████▏     | 9680/23218 [7:32:47<9:32:28,  2.54s/it]Preprocessing files:  42%|████▏     | 9720/23218 [7:34:15<9:08:12,  2.44s/it]Preprocessing files:  42%|████▏     | 9760/23218 [7:36:18<9:48:15,  2.62s/it]Preprocessing files:  42%|████▏     | 9800/23218 [7:37:51<9:27:20,  2.54s/it]Preprocessing files:  42%|████▏     | 9840/23218 [7:39:13<8:51:59,  2.39s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  43%|████▎     | 9880/23218 [7:41:20<9:43:07,  2.62s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  43%|████▎     | 9920/23218 [7:43:19<10:06:01,  2.73s/it]Preprocessing files:  43%|████▎     | 9960/23218 [7:44:59<9:48:51,  2.66s/it] Preprocessing files:  43%|████▎     | 10000/23218 [7:46:31<9:22:58,  2.56s/it]Preprocessing files:  43%|████▎     | 10040/23218 [7:48:15<9:23:43,  2.57s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  43%|████▎     | 10080/23218 [7:50:06<9:35:55,  2.63s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  44%|████▎     | 10120/23218 [7:51:53<9:36:25,  2.64s/it]Preprocessing files:  44%|████▍     | 10160/23218 [7:53:34<9:27:51,  2.61s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  44%|████▍     | 10200/23218 [7:55:15<9:20:04,  2.58s/it]Preprocessing files:  44%|████▍     | 10240/23218 [7:56:59<9:20:07,  2.59s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  44%|████▍     | 10280/23218 [7:58:31<8:59:34,  2.50s/it]Preprocessing files:  44%|████▍     | 10320/23218 [8:00:00<8:38:51,  2.41s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  45%|████▍     | 10360/23218 [8:01:37<8:38:52,  2.42s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  45%|████▍     | 10400/23218 [8:02:53<8:03:43,  2.26s/it]Preprocessing files:  45%|████▍     | 10440/23218 [8:04:21<7:57:33,  2.24s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  45%|████▌     | 10480/23218 [8:06:17<8:38:53,  2.44s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  45%|████▌     | 10520/23218 [8:07:53<8:34:05,  2.43s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  45%|████▌     | 10560/23218 [8:09:33<8:37:08,  2.45s/it]Preprocessing files:  46%|████▌     | 10600/23218 [8:10:58<8:14:35,  2.35s/it]Preprocessing files:  46%|████▌     | 10640/23218 [8:12:52<8:44:18,  2.50s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  46%|████▌     | 10680/23218 [8:14:21<8:26:05,  2.42s/it]Preprocessing files:  46%|████▌     | 10720/23218 [8:16:46<9:38:48,  2.78s/it]Preprocessing files:  46%|████▋     | 10760/23218 [8:18:36<9:35:41,  2.77s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  47%|████▋     | 10800/23218 [8:20:22<9:25:16,  2.73s/it]Preprocessing files:  47%|████▋     | 10840/23218 [8:21:55<8:59:02,  2.61s/it]Preprocessing files:  47%|████▋     | 10880/23218 [8:23:45<9:05:27,  2.65s/it]Preprocessing files:  47%|████▋     | 10920/23218 [8:25:23<8:50:48,  2.59s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  47%|████▋     | 10960/23218 [8:27:07<8:50:05,  2.59s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  47%|████▋     | 11000/23218 [8:29:03<9:06:35,  2.68s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  48%|████▊     | 11040/23218 [8:30:54<9:11:17,  2.72s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  48%|████▊     | 11080/23218 [8:32:53<9:24:58,  2.79s/it]Preprocessing files:  48%|████▊     | 11120/23218 [8:35:06<9:54:46,  2.95s/it]Preprocessing files:  48%|████▊     | 11160/23218 [8:36:53<9:36:04,  2.87s/it]Preprocessing files:  48%|████▊     | 11200/23218 [8:38:12<8:41:09,  2.60s/it]Preprocessing files:  48%|████▊     | 11240/23218 [8:39:47<8:25:36,  2.53s/it]Preprocessing files:  49%|████▊     | 11280/23218 [8:41:47<8:52:01,  2.67s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  49%|████▉     | 11320/23218 [8:43:35<8:51:07,  2.68s/it]Preprocessing files:  49%|████▉     | 11360/23218 [8:44:59<8:15:08,  2.51s/it]Preprocessing files:  49%|████▉     | 11400/23218 [8:46:34<8:07:06,  2.47s/it]Preprocessing files:  49%|████▉     | 11440/23218 [8:48:42<8:47:33,  2.69s/it]Preprocessing files:  49%|████▉     | 11480/23218 [8:50:16<8:25:31,  2.58s/it]Preprocessing files:  50%|████▉     | 11520/23218 [8:52:13<8:44:22,  2.69s/it]Preprocessing files:  50%|████▉     | 11560/23218 [8:53:55<8:34:05,  2.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  50%|████▉     | 11600/23218 [8:56:08<9:11:51,  2.85s/it]Preprocessing files:  50%|█████     | 11640/23218 [8:57:59<9:06:04,  2.83s/it]Preprocessing files:  50%|█████     | 11680/23218 [8:59:40<8:45:34,  2.73s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  50%|█████     | 11720/23218 [9:01:41<9:01:23,  2.83s/it]Preprocessing files:  51%|█████     | 11760/23218 [9:03:42<9:10:14,  2.88s/it]Preprocessing files:  51%|█████     | 11800/23218 [9:05:41<9:14:49,  2.92s/it]Preprocessing files:  51%|█████     | 11840/23218 [9:07:39<9:13:36,  2.92s/it]Preprocessing files:  51%|█████     | 11880/23218 [9:09:23<8:54:18,  2.83s/it]Preprocessing files:  51%|█████▏    | 11920/23218 [9:10:53<8:19:29,  2.65s/it]Preprocessing files:  52%|█████▏    | 11960/23218 [9:12:38<8:16:41,  2.65s/it]Preprocessing files:  52%|█████▏    | 12000/23218 [9:14:31<8:24:14,  2.70s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  52%|█████▏    | 12040/23218 [9:16:08<8:06:54,  2.61s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  52%|█████▏    | 12080/23218 [9:17:33<7:38:29,  2.47s/it]Preprocessing files:  52%|█████▏    | 12120/23218 [9:19:27<7:57:38,  2.58s/it]Preprocessing files:  52%|█████▏    | 12160/23218 [9:22:08<9:16:17,  3.02s/it]Preprocessing files:  53%|█████▎    | 12200/23218 [9:24:35<9:49:46,  3.21s/it]Preprocessing files:  53%|█████▎    | 12240/23218 [9:26:18<9:13:20,  3.02s/it]Preprocessing files:  53%|█████▎    | 12280/23218 [9:28:00<8:45:48,  2.88s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  53%|█████▎    | 12320/23218 [9:29:51<8:36:48,  2.85s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  53%|█████▎    | 12360/23218 [9:32:10<9:09:52,  3.04s/it]Preprocessing files:  53%|█████▎    | 12400/23218 [9:34:38<9:43:08,  3.23s/it]Preprocessing files:  54%|█████▎    | 12440/23218 [9:36:55<9:51:56,  3.30s/it]Preprocessing files:  54%|█████▍    | 12480/23218 [9:39:06<9:48:16,  3.29s/it]Preprocessing files:  54%|█████▍    | 12520/23218 [9:40:43<8:59:20,  3.02s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  54%|█████▍    | 12560/23218 [9:42:14<8:17:27,  2.80s/it]Preprocessing files:  54%|█████▍    | 12600/23218 [9:44:09<8:19:44,  2.82s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  54%|█████▍    | 12640/23218 [9:45:46<7:56:24,  2.70s/it]Preprocessing files:  55%|█████▍    | 12680/23218 [9:48:08<8:39:24,  2.96s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  55%|█████▍    | 12720/23218 [9:50:02<8:32:02,  2.93s/it]Preprocessing files:  55%|█████▍    | 12760/23218 [9:51:59<8:30:40,  2.93s/it]Preprocessing files:  55%|█████▌    | 12800/23218 [9:53:30<7:54:12,  2.73s/it]Preprocessing files:  55%|█████▌    | 12840/23218 [9:55:30<8:06:32,  2.81s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  55%|█████▌    | 12880/23218 [9:58:22<9:20:56,  3.26s/it]Preprocessing files:  56%|█████▌    | 12920/23218 [10:00:44<9:34:27,  3.35s/it]Preprocessing files:  56%|█████▌    | 12960/23218 [10:02:37<9:04:45,  3.19s/it]Preprocessing files:  56%|█████▌    | 13000/23218 [10:04:25<8:38:03,  3.04s/it]Preprocessing files:  56%|█████▌    | 13040/23218 [10:06:22<8:29:41,  3.00s/it]Preprocessing files:  56%|█████▋    | 13080/23218 [10:08:10<8:12:26,  2.91s/it]Preprocessing files:  57%|█████▋    | 13120/23218 [10:10:02<8:05:14,  2.88s/it]Preprocessing files:  57%|█████▋    | 13160/23218 [10:11:46<7:49:33,  2.80s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  57%|█████▋    | 13200/23218 [10:13:32<7:39:30,  2.75s/it]Preprocessing files:  57%|█████▋    | 13240/23218 [10:15:08<7:20:21,  2.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  57%|█████▋    | 13280/23218 [10:16:52<7:15:48,  2.63s/it]Preprocessing files:  57%|█████▋    | 13320/23218 [10:19:03<7:46:37,  2.83s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  58%|█████▊    | 13360/23218 [10:21:26<8:21:18,  3.05s/it]Preprocessing files:  58%|█████▊    | 13400/23218 [10:23:15<8:02:26,  2.95s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  58%|█████▊    | 13440/23218 [10:25:16<8:04:43,  2.97s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  58%|█████▊    | 13480/23218 [10:27:57<8:53:25,  3.29s/it]Preprocessing files:  58%|█████▊    | 13520/23218 [10:29:59<8:39:38,  3.21s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  58%|█████▊    | 13560/23218 [10:32:18<8:51:02,  3.30s/it]Preprocessing files:  59%|█████▊    | 13600/23218 [10:34:10<8:24:40,  3.15s/it]Preprocessing files:  59%|█████▊    | 13640/23218 [10:35:34<7:31:59,  2.83s/it]Preprocessing files:  59%|█████▉    | 13680/23218 [10:37:23<7:25:07,  2.80s/it]Preprocessing files:  59%|█████▉    | 13720/23218 [10:38:51<6:54:33,  2.62s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  59%|█████▉    | 13760/23218 [10:41:00<7:21:52,  2.80s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  59%|█████▉    | 13800/23218 [10:42:37<7:01:54,  2.69s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  60%|█████▉    | 13840/23218 [10:44:09<6:41:36,  2.57s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  60%|█████▉    | 13880/23218 [10:45:36<6:22:17,  2.46s/it]Preprocessing files:  60%|█████▉    | 13920/23218 [10:47:38<6:47:34,  2.63s/it]Preprocessing files:  60%|██████    | 13960/23218 [10:49:16<6:37:53,  2.58s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  60%|██████    | 14000/23218 [10:50:50<6:25:20,  2.51s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  60%|██████    | 14040/23218 [10:52:57<6:54:14,  2.71s/it]Preprocessing files:  61%|██████    | 14080/23218 [10:54:31<6:36:24,  2.60s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  61%|██████    | 14120/23218 [10:56:33<6:55:16,  2.74s/it]Preprocessing files:  61%|██████    | 14160/23218 [10:58:36<7:08:36,  2.84s/it]Preprocessing files:  61%|██████    | 14200/23218 [11:00:51<7:30:52,  3.00s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  61%|██████▏   | 14240/23218 [11:03:07<7:46:05,  3.11s/it]Preprocessing files:  62%|██████▏   | 14280/23218 [11:05:39<8:14:43,  3.32s/it]Preprocessing files:  62%|██████▏   | 14320/23218 [11:07:17<7:34:28,  3.06s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  62%|██████▏   | 14360/23218 [11:09:18<7:30:19,  3.05s/it]Preprocessing files:  62%|██████▏   | 14400/23218 [11:10:58<7:04:14,  2.89s/it]Preprocessing files:  62%|██████▏   | 14440/23218 [11:13:32<7:44:41,  3.18s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  62%|██████▏   | 14480/23218 [11:15:42<7:45:49,  3.20s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  63%|██████▎   | 14520/23218 [11:18:51<8:49:33,  3.65s/it]Preprocessing files:  63%|██████▎   | 14560/23218 [11:21:18<8:48:17,  3.66s/it]Preprocessing files:  63%|██████▎   | 14600/23218 [11:25:18<10:27:05,  4.37s/it]Preprocessing files:  63%|██████▎   | 14640/23218 [11:26:23<8:25:50,  3.54s/it] Preprocessing files:  63%|██████▎   | 14680/23218 [11:27:49<7:24:04,  3.12s/it]Preprocessing files:  63%|██████▎   | 14720/23218 [11:29:49<7:17:03,  3.09s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  64%|██████▎   | 14760/23218 [11:31:39<7:00:53,  2.99s/it]Preprocessing files:  64%|██████▎   | 14800/23218 [11:33:26<6:46:20,  2.90s/it]Preprocessing files:  64%|██████▍   | 14840/23218 [11:35:24<6:46:14,  2.91s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  64%|██████▍   | 14880/23218 [11:36:59<6:22:08,  2.75s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  64%|██████▍   | 14920/23218 [11:38:49<6:20:08,  2.75s/it]Preprocessing files:  64%|██████▍   | 14960/23218 [11:40:38<6:17:06,  2.74s/it]Preprocessing files:  65%|██████▍   | 15000/23218 [11:42:16<6:04:09,  2.66s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  65%|██████▍   | 15040/23218 [11:52:13<14:23:38,  6.34s/it]Preprocessing files:  65%|██████▍   | 15080/23218 [12:00:51<18:48:16,  8.32s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  65%|██████▌   | 15120/23218 [12:03:30<15:46:38,  7.01s/it]Preprocessing files:  65%|██████▌   | 15160/23218 [12:05:33<13:03:11,  5.83s/it]Preprocessing files:  65%|██████▌   | 15200/23218 [12:08:46<12:19:36,  5.53s/it]Preprocessing files:  66%|██████▌   | 15240/23218 [12:10:57<10:45:57,  4.86s/it]Preprocessing files:  66%|██████▌   | 15280/23218 [12:13:18<9:49:42,  4.46s/it] /global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  66%|██████▌   | 15320/23218 [12:15:49<9:19:11,  4.25s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  66%|██████▌   | 15360/23218 [12:18:07<8:45:38,  4.01s/it]Preprocessing files:  66%|██████▋   | 15400/23218 [12:20:19<8:14:33,  3.80s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  67%|██████▋   | 15440/23218 [12:22:00<7:23:01,  3.42s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  67%|██████▋   | 15480/23218 [12:23:58<7:02:23,  3.28s/it]Preprocessing files:  67%|██████▋   | 15520/23218 [12:26:46<7:35:26,  3.55s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  67%|██████▋   | 15560/23218 [12:29:10<7:35:12,  3.57s/it]Preprocessing files:  67%|██████▋   | 15600/23218 [12:31:43<7:43:01,  3.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  67%|██████▋   | 15640/23218 [12:33:26<6:59:51,  3.32s/it]Preprocessing files:  68%|██████▊   | 15680/23218 [12:35:00<6:20:23,  3.03s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  68%|██████▊   | 15720/23218 [12:36:20<5:40:44,  2.73s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  68%|██████▊   | 15760/23218 [12:37:56<5:26:44,  2.63s/it]Preprocessing files:  68%|██████▊   | 15800/23218 [12:39:40<5:23:24,  2.62s/it]Preprocessing files:  68%|██████▊   | 15840/23218 [12:41:28<5:25:11,  2.64s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  68%|██████▊   | 15880/23218 [12:42:58<5:08:24,  2.52s/it]Preprocessing files:  69%|██████▊   | 15920/23218 [12:44:34<5:02:12,  2.48s/it]Preprocessing files:  69%|██████▊   | 15960/23218 [12:46:20<5:07:13,  2.54s/it]Preprocessing files:  69%|██████▉   | 16000/23218 [12:48:09<5:12:00,  2.59s/it]Preprocessing files:  69%|██████▉   | 16040/23218 [12:50:00<5:16:33,  2.65s/it]Preprocessing files:  69%|██████▉   | 16080/23218 [12:51:44<5:13:29,  2.64s/it]Preprocessing files:  69%|██████▉   | 16120/23218 [12:53:14<4:57:26,  2.51s/it]Preprocessing files:  70%|██████▉   | 16160/23218 [12:54:52<4:53:32,  2.50s/it]Preprocessing files:  70%|██████▉   | 16200/23218 [12:57:09<5:24:54,  2.78s/it]Preprocessing files:  70%|██████▉   | 16240/23218 [12:59:56<6:11:24,  3.19s/it]Preprocessing files:  70%|███████   | 16280/23218 [13:02:39<6:40:06,  3.46s/it]Preprocessing files:  70%|███████   | 16320/23218 [13:05:22<6:59:16,  3.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  70%|███████   | 16360/23218 [13:07:37<6:47:30,  3.57s/it]Preprocessing files:  71%|███████   | 16400/23218 [13:10:12<6:55:04,  3.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  71%|███████   | 16440/23218 [13:12:10<6:28:52,  3.44s/it]Preprocessing files:  71%|███████   | 16480/23218 [13:14:06<6:08:40,  3.28s/it]Preprocessing files:  71%|███████   | 16520/23218 [13:16:09<5:59:14,  3.22s/it]Preprocessing files:  71%|███████▏  | 16560/23218 [13:18:14<5:54:01,  3.19s/it]Preprocessing files:  71%|███████▏  | 16600/23218 [13:19:47<5:23:41,  2.93s/it]Preprocessing files:  72%|███████▏  | 16640/23218 [13:21:39<5:17:05,  2.89s/it]Preprocessing files:  72%|███████▏  | 16680/23218 [13:23:10<4:55:01,  2.71s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  72%|███████▏  | 16720/23218 [13:24:49<4:45:51,  2.64s/it]Preprocessing files:  72%|███████▏  | 16760/23218 [13:26:58<5:02:39,  2.81s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  72%|███████▏  | 16800/23218 [13:28:47<4:58:16,  2.79s/it]Preprocessing files:  73%|███████▎  | 16840/23218 [13:30:19<4:40:26,  2.64s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  73%|███████▎  | 16880/23218 [13:32:30<4:58:50,  2.83s/it]Preprocessing files:  73%|███████▎  | 16920/23218 [13:34:48<5:17:08,  3.02s/it]Preprocessing files:  73%|███████▎  | 16960/23218 [13:36:21<4:53:13,  2.81s/it]Preprocessing files:  73%|███████▎  | 17000/23218 [13:37:50<4:32:36,  2.63s/it]Preprocessing files:  73%|███████▎  | 17040/23218 [13:39:47<4:39:55,  2.72s/it]Preprocessing files:  74%|███████▎  | 17080/23218 [13:41:43<4:43:46,  2.77s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  74%|███████▎  | 17120/23218 [13:43:34<4:41:49,  2.77s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  74%|███████▍  | 17160/23218 [13:45:32<4:45:16,  2.83s/it]Preprocessing files:  74%|███████▍  | 17200/23218 [13:47:32<4:48:50,  2.88s/it]Preprocessing files:  74%|███████▍  | 17240/23218 [13:49:53<5:06:29,  3.08s/it]Preprocessing files:  74%|███████▍  | 17280/23218 [13:52:03<5:09:38,  3.13s/it]Preprocessing files:  75%|███████▍  | 17320/23218 [13:54:14<5:11:31,  3.17s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  75%|███████▍  | 17360/23218 [13:56:20<5:09:14,  3.17s/it]Preprocessing files:  75%|███████▍  | 17400/23218 [13:57:44<4:36:02,  2.85s/it]Preprocessing files:  75%|███████▌  | 17440/23218 [13:59:29<4:27:17,  2.78s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  75%|███████▌  | 17480/23218 [14:01:02<4:13:00,  2.65s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  75%|███████▌  | 17520/23218 [14:02:27<3:56:22,  2.49s/it]Preprocessing files:  76%|███████▌  | 17560/23218 [14:04:01<3:50:49,  2.45s/it]Preprocessing files:  76%|███████▌  | 17600/23218 [14:05:44<3:52:53,  2.49s/it]Preprocessing files:  76%|███████▌  | 17640/23218 [14:07:28<3:54:20,  2.52s/it]Preprocessing files:  76%|███████▌  | 17680/23218 [14:09:30<4:07:01,  2.68s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  76%|███████▋  | 17720/23218 [14:10:53<3:48:27,  2.49s/it]Preprocessing files:  76%|███████▋  | 17760/23218 [14:12:18<3:36:52,  2.38s/it]Preprocessing files:  77%|███████▋  | 17800/23218 [14:13:50<3:32:55,  2.36s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  77%|███████▋  | 17840/23218 [14:15:21<3:29:02,  2.33s/it]Preprocessing files:  77%|███████▋  | 17880/23218 [14:17:06<3:35:33,  2.42s/it]Preprocessing files:  77%|███████▋  | 17920/23218 [14:18:43<3:33:59,  2.42s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  77%|███████▋  | 17960/23218 [14:20:25<3:35:59,  2.46s/it]Preprocessing files:  78%|███████▊  | 18000/23218 [14:21:53<3:26:53,  2.38s/it]Preprocessing files:  78%|███████▊  | 18040/23218 [14:23:56<3:43:56,  2.59s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  78%|███████▊  | 18080/23218 [14:26:10<4:01:30,  2.82s/it]Preprocessing files:  78%|███████▊  | 18120/23218 [14:28:08<4:03:00,  2.86s/it]Preprocessing files:  78%|███████▊  | 18160/23218 [14:30:14<4:08:18,  2.95s/it]Preprocessing files:  78%|███████▊  | 18200/23218 [14:32:55<4:33:25,  3.27s/it]Preprocessing files:  79%|███████▊  | 18240/23218 [14:34:47<4:19:41,  3.13s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  79%|███████▊  | 18280/23218 [14:37:21<4:34:55,  3.34s/it]Preprocessing files:  79%|███████▉  | 18320/23218 [14:39:11<4:18:12,  3.16s/it]Preprocessing files:  79%|███████▉  | 18360/23218 [14:41:06<4:09:16,  3.08s/it]Preprocessing files:  79%|███████▉  | 18400/23218 [14:42:49<3:55:02,  2.93s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  79%|███████▉  | 18440/23218 [14:44:12<3:32:43,  2.67s/it]Preprocessing files:  80%|███████▉  | 18480/23218 [14:46:07<3:35:48,  2.73s/it]Preprocessing files:  80%|███████▉  | 18520/23218 [14:47:57<3:34:22,  2.74s/it]Preprocessing files:  80%|███████▉  | 18560/23218 [14:50:16<3:49:40,  2.96s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  80%|████████  | 18600/23218 [14:52:15<3:47:58,  2.96s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  80%|████████  | 18640/23218 [14:54:22<3:51:10,  3.03s/it]Preprocessing files:  80%|████████  | 18680/23218 [14:56:12<3:42:54,  2.95s/it]Preprocessing files:  81%|████████  | 18720/23218 [14:57:53<3:31:26,  2.82s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  81%|████████  | 18760/23218 [14:59:30<3:20:38,  2.70s/it]Preprocessing files:  81%|████████  | 18800/23218 [15:01:08<3:13:20,  2.63s/it]Preprocessing files:  81%|████████  | 18840/23218 [15:03:18<3:24:52,  2.81s/it]Preprocessing files:  81%|████████▏ | 18880/23218 [15:05:16<3:26:34,  2.86s/it]Preprocessing files:  81%|████████▏ | 18920/23218 [15:07:27<3:33:10,  2.98s/it]Preprocessing files:  82%|████████▏ | 18960/23218 [15:09:38<3:37:38,  3.07s/it]Preprocessing files:  82%|████████▏ | 19000/23218 [15:11:12<3:20:30,  2.85s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  82%|████████▏ | 19040/23218 [15:13:01<3:15:49,  2.81s/it]Preprocessing files:  82%|████████▏ | 19080/23218 [15:14:23<2:58:31,  2.59s/it]Preprocessing files:  82%|████████▏ | 19120/23218 [15:15:39<2:42:29,  2.38s/it]Preprocessing files:  83%|████████▎ | 19160/23218 [15:17:15<2:41:38,  2.39s/it]Preprocessing files:  83%|████████▎ | 19200/23218 [15:19:46<3:07:27,  2.80s/it]Preprocessing files:  83%|████████▎ | 19240/23218 [15:21:37<3:05:16,  2.79s/it]Preprocessing files:  83%|████████▎ | 19280/23218 [15:23:32<3:04:56,  2.82s/it]Preprocessing files:  83%|████████▎ | 19320/23218 [15:25:41<3:11:12,  2.94s/it]Preprocessing files:  83%|████████▎ | 19360/23218 [15:27:34<3:06:42,  2.90s/it]Preprocessing files:  84%|████████▎ | 19400/23218 [15:29:23<3:01:44,  2.86s/it]Preprocessing files:  84%|████████▎ | 19440/23218 [15:31:01<2:51:58,  2.73s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  84%|████████▍ | 19480/23218 [15:32:46<2:48:19,  2.70s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  84%|████████▍ | 19520/23218 [15:35:05<3:00:38,  2.93s/it]Preprocessing files:  84%|████████▍ | 19560/23218 [15:37:47<3:19:04,  3.27s/it]Preprocessing files:  84%|████████▍ | 19600/23218 [15:40:57<3:44:03,  3.72s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  85%|████████▍ | 19640/23218 [15:43:02<3:30:41,  3.53s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  85%|████████▍ | 19680/23218 [15:45:08<3:21:35,  3.42s/it]Preprocessing files:  85%|████████▍ | 19720/23218 [15:47:35<3:23:59,  3.50s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  85%|████████▌ | 19760/23218 [15:50:11<3:28:27,  3.62s/it]Preprocessing files:  85%|████████▌ | 19800/23218 [15:52:23<3:20:50,  3.53s/it]Preprocessing files:  85%|████████▌ | 19840/23218 [15:54:32<3:13:02,  3.43s/it]Preprocessing files:  86%|████████▌ | 19880/23218 [15:56:30<3:03:06,  3.29s/it]Preprocessing files:  86%|████████▌ | 19920/23218 [15:59:04<3:09:44,  3.45s/it]Preprocessing files:  86%|████████▌ | 19960/23218 [16:01:03<2:59:50,  3.31s/it]Preprocessing files:  86%|████████▌ | 20000/23218 [16:02:55<2:49:18,  3.16s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  86%|████████▋ | 20040/23218 [16:04:34<2:36:18,  2.95s/it]Preprocessing files:  86%|████████▋ | 20080/23218 [16:06:24<2:31:22,  2.89s/it]Preprocessing files:  87%|████████▋ | 20120/23218 [16:08:37<2:36:01,  3.02s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  87%|████████▋ | 20160/23218 [16:10:38<2:34:06,  3.02s/it]Preprocessing files:  87%|████████▋ | 20200/23218 [16:13:02<2:40:47,  3.20s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  87%|████████▋ | 20240/23218 [16:16:03<2:58:33,  3.60s/it]Preprocessing files:  87%|████████▋ | 20280/23218 [16:18:49<3:04:09,  3.76s/it]Preprocessing files:  88%|████████▊ | 20320/23218 [16:22:36<3:29:30,  4.34s/it]Preprocessing files:  88%|████████▊ | 20360/23218 [16:25:25<3:24:48,  4.30s/it]Preprocessing files:  88%|████████▊ | 20400/23218 [16:26:57<2:53:44,  3.70s/it]Preprocessing files:  88%|████████▊ | 20440/23218 [16:28:25<2:30:37,  3.25s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  88%|████████▊ | 20480/23218 [16:30:13<2:20:57,  3.09s/it]Preprocessing files:  88%|████████▊ | 20520/23218 [16:31:46<2:08:20,  2.85s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  89%|████████▊ | 20560/23218 [16:33:20<1:59:45,  2.70s/it]Preprocessing files:  89%|████████▊ | 20600/23218 [16:34:46<1:50:40,  2.54s/it]Preprocessing files:  89%|████████▉ | 20640/23218 [16:36:31<1:50:19,  2.57s/it]Preprocessing files:  89%|████████▉ | 20680/23218 [16:38:18<1:49:58,  2.60s/it]Preprocessing files:  89%|████████▉ | 20720/23218 [16:40:15<1:52:18,  2.70s/it]Preprocessing files:  89%|████████▉ | 20760/23218 [16:42:14<1:53:55,  2.78s/it]Preprocessing files:  90%|████████▉ | 20800/23218 [16:45:07<2:10:32,  3.24s/it]Preprocessing files:  90%|████████▉ | 20840/23218 [16:47:37<2:14:43,  3.40s/it]Preprocessing files:  90%|████████▉ | 20880/23218 [16:49:25<2:04:12,  3.19s/it]Preprocessing files:  90%|█████████ | 20920/23218 [16:51:11<1:55:55,  3.03s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  90%|█████████ | 20960/23218 [16:52:59<1:50:02,  2.92s/it]Preprocessing files:  90%|█████████ | 21000/23218 [16:54:33<1:41:57,  2.76s/it]Preprocessing files:  91%|█████████ | 21040/23218 [16:56:38<1:43:51,  2.86s/it]Preprocessing files:  91%|█████████ | 21080/23218 [16:58:13<1:36:51,  2.72s/it]Preprocessing files:  91%|█████████ | 21120/23218 [16:59:35<1:28:01,  2.52s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  91%|█████████ | 21160/23218 [17:00:36<1:16:03,  2.22s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  91%|█████████▏| 21200/23218 [17:01:59<1:13:19,  2.18s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  91%|█████████▏| 21240/23218 [17:03:21<1:10:31,  2.14s/it]Preprocessing files:  92%|█████████▏| 21280/23218 [17:04:46<1:08:55,  2.13s/it]Preprocessing files:  92%|█████████▏| 21320/23218 [17:06:15<1:08:26,  2.16s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  92%|█████████▏| 21360/23218 [17:08:14<1:14:35,  2.41s/it]Preprocessing files:  92%|█████████▏| 21400/23218 [17:09:56<1:14:11,  2.45s/it]Preprocessing files:  92%|█████████▏| 21440/23218 [17:11:35<1:12:51,  2.46s/it]Preprocessing files:  93%|█████████▎| 21480/23218 [17:13:02<1:08:33,  2.37s/it]Preprocessing files:  93%|█████████▎| 21520/23218 [17:14:29<1:05:25,  2.31s/it]Preprocessing files:  93%|█████████▎| 21560/23218 [17:16:04<1:04:24,  2.33s/it]Preprocessing files:  93%|█████████▎| 21600/23218 [17:17:35<1:02:28,  2.32s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  93%|█████████▎| 21640/23218 [17:19:05<1:00:22,  2.30s/it]Preprocessing files:  93%|█████████▎| 21680/23218 [17:20:31<57:46,  2.25s/it]  Preprocessing files:  94%|█████████▎| 21720/23218 [17:22:01<56:15,  2.25s/it]Preprocessing files:  94%|█████████▎| 21760/23218 [17:23:36<55:37,  2.29s/it]Preprocessing files:  94%|█████████▍| 21800/23218 [17:25:50<1:01:29,  2.60s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  94%|█████████▍| 21840/23218 [17:27:56<1:03:39,  2.77s/it]Preprocessing files:  94%|█████████▍| 21880/23218 [17:29:58<1:03:35,  2.85s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  94%|█████████▍| 21920/23218 [17:31:47<1:00:56,  2.82s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  95%|█████████▍| 21960/23218 [17:33:43<59:30,  2.84s/it]  /global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  95%|█████████▍| 22000/23218 [17:35:31<56:46,  2.80s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  95%|█████████▍| 22040/23218 [17:37:17<54:06,  2.76s/it]Preprocessing files:  95%|█████████▌| 22080/23218 [17:39:26<54:54,  2.90s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  95%|█████████▌| 22120/23218 [17:41:14<51:53,  2.84s/it]Preprocessing files:  95%|█████████▌| 22160/23218 [17:43:08<50:08,  2.84s/it]Preprocessing files:  96%|█████████▌| 22200/23218 [17:45:08<48:59,  2.89s/it]Preprocessing files:  96%|█████████▌| 22240/23218 [17:47:03<47:01,  2.88s/it]Preprocessing files:  96%|█████████▌| 22280/23218 [17:49:09<46:19,  2.96s/it]Preprocessing files:  96%|█████████▌| 22320/23218 [17:51:15<45:14,  3.02s/it]Preprocessing files:  96%|█████████▋| 22360/23218 [17:53:59<47:49,  3.34s/it]Preprocessing files:  96%|█████████▋| 22400/23218 [17:56:17<45:57,  3.37s/it]Preprocessing files:  97%|█████████▋| 22440/23218 [17:57:41<38:48,  2.99s/it]Preprocessing files:  97%|█████████▋| 22480/23218 [17:59:43<37:02,  3.01s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  97%|█████████▋| 22520/23218 [18:01:42<34:52,  3.00s/it]Preprocessing files:  97%|█████████▋| 22560/23218 [18:03:36<32:24,  2.95s/it]Preprocessing files:  97%|█████████▋| 22600/23218 [18:05:21<29:27,  2.86s/it]Preprocessing files:  98%|█████████▊| 22640/23218 [18:07:04<26:42,  2.77s/it]Preprocessing files:  98%|█████████▊| 22680/23218 [18:09:00<25:11,  2.81s/it]Preprocessing files:  98%|█████████▊| 22720/23218 [18:10:40<22:33,  2.72s/it]Preprocessing files:  98%|█████████▊| 22760/23218 [18:12:09<19:37,  2.57s/it]Preprocessing files:  98%|█████████▊| 22800/23218 [18:13:56<18:07,  2.60s/it]Preprocessing files:  98%|█████████▊| 22840/23218 [18:15:37<16:15,  2.58s/it]/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:340: RuntimeWarning: invalid value encountered in divide
+  noise_zscore[self.usable_idx] = (noisiness - noise_median) / noise_sd
+/global/common/software/m4244/DIVER/lib/python3.12/site-packages/pyprep/find_noisy_channels.py:285: RuntimeWarning: invalid value encountered in divide
+  amplitude_zscore[self.usable_idx] = (chan_amplitudes - amp_median) / amp_sd
+Preprocessing files:  99%|█████████▊| 22880/23218 [18:17:21<14:32,  2.58s/it]Preprocessing files:  99%|█████████▊| 22920/23218 [18:19:13<13:09,  2.65s/it]Preprocessing files:  99%|█████████▉| 22960/23218 [18:20:54<11:13,  2.61s/it]Preprocessing files:  99%|█████████▉| 23000/23218 [18:22:56<09:58,  2.74s/it]Preprocessing files:  99%|█████████▉| 23040/23218 [18:24:46<08:07,  2.74s/it]Preprocessing files:  99%|█████████▉| 23080/23218 [18:26:38<06:21,  2.76s/it]Preprocessing files: 100%|█████████▉| 23120/23218 [18:28:22<04:25,  2.71s/it]Preprocessing files: 100%|█████████▉| 23160/23218 [18:30:07<02:35,  2.69s/it]Preprocessing files: 100%|█████████▉| 23200/23218 [18:31:54<00:48,  2.68s/it]Preprocessing files: 100%|██████████| 23218/23218 [18:31:54<00:00,  2.87s/it]
