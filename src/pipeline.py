@@ -58,6 +58,7 @@ class BasePipeline(Pipeline):
             #! ADDED PARAMETERS FOR US 
             keep_remainder : bool = False, #if True, will keep the remainder of the data after splitting (last window will be longer due to the added thing)
             run_ransac : bool = True, #if False, will not do ransac during QA
+            run_drop_bad_channels : bool = True,
             run_detrend : bool = True, #if False, will not detrend during preprocessing (meegkit detrending)
             preproc_lp_freq : Union[float, str] = "same", #(during preproc) if None : no high pass, if 'same', will use the same lp_freq for QA and preprocessing.  
             preproc_hp_freq : Union[float, str] = "same", #(during preproc) if None, no low pass, if 'same', will use the same hp_freq for QA and preprocessing
@@ -96,7 +97,7 @@ class BasePipeline(Pipeline):
         ### 1. splitting windows and QA options 
         self.keep_remainder = keep_remainder
         self.ransac = run_ransac 
-        
+        self.run_drop_bad_channels = run_drop_bad_channels
         ### 2. Actual Preprocessing if 'same', will use same lp,hp,line_freq for QA and preprocessing
         self.run_detrend = run_detrend
         
@@ -349,8 +350,9 @@ class DynamicPipeline(BasePipeline):
             return None
         
         self._remove_line_noise(raw, preproc_line_noise_option = self.preproc_line_noise_option)
-        bad_chs = self._drop_bad_channels(raw)
-        logging.info(f"{window_info_str}\tFound {len(bad_chs)} bad channels: {bad_chs}.")
+        if self.run_drop_bad_channels:
+            bad_chs = self._drop_bad_channels(raw)
+            logging.info(f"{window_info_str}\tFound {len(bad_chs)} bad channels: {bad_chs}.")
 
         quality = self._evaluate_quality(raw)
         if not quality:
